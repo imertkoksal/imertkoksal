@@ -69,5 +69,4 @@ I focus on building systems that can evolve into real products rather than simpl
 
 ## Contact
 
-LinkedIn
-Email
+[LinkedIn](https://www.linkedin.com/in/imertkoksal/)

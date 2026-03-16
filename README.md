@@ -1,47 +1,50 @@
-# Hello, I'm Mert Köksal.
+# Mert Köksal
 
-Full Stack Web Developer focused on building scalable web applications and AI-assisted software systems.
+Full Stack Web Developer focused on building scalable web applications, SaaS platforms, and AI-integrated software systems.
 
 ## About
 
-I am a full stack web developer with experience designing and building complete web platforms from backend architecture to frontend interfaces.
-To improve efficiency and development speed, I actively integrate modern AI tools into my workflow and software systems. These tools help accelerate prototyping, automation, and feature development while allowing me to focus on architecture, system design, and product quality.
+I am a full stack web developer experienced in designing and building complete web platforms, from backend architecture to frontend interfaces. My work focuses on creating scalable, maintainable systems and developing products that can grow into reliable platforms.
 
-My primary interest is building scalable SaaS platforms, automation tools, and AI-integrated applications.
+To improve development efficiency and accelerate iteration cycles, I integrate modern AI tools into my development workflow and software systems. These tools support rapid prototyping, automation, and feature development while allowing me to focus on architecture, system design, and overall product quality.
+
+My primary interests include SaaS platforms, automation tools, and AI-integrated web applications.
 
 ## Technical Stack
 
-**Backend**
+### Backend
 
-* PHP
-* Laravel
-* Node.js
-* REST API Development
-* MySQL / PostgreSQL
+- PHP
+- Laravel
+- Node.js
+- REST API Development
+- MySQL / PostgreSQL
 
-**Frontend**
+### Frontend
 
-* JavaScript
-* React
-* Vue
-* HTML / CSS
+- JavaScript
+- React
+- Vue
+- HTML / CSS
 
-**AI & Automation**
+### AI & Automation
 
-* OpenAI, Claude, Gemini API
-* AI-assisted development workflows
-* Prompt design for application features
-* AI integration into SaaS systems
+- OpenAI API
+- Anthropic Claude API
+- Google Gemini API
+- AI-assisted development workflows
+- Prompt design for application features
+- AI integration within SaaS platforms
 
 ## Areas of Interest
 
-* SaaS platform development
-* AI-powered web applications
-* Automation systems
-* API architecture
-* Scalable backend systems
+- SaaS platform development
+- AI-powered web applications
+- Automation systems
+- API architecture
+- Scalable backend systems
 
 ## Contact
 
-LinkedIn
+LinkedIn  
 https://www.linkedin.com/in/imertkoksal/

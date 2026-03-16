@@ -29,6 +29,8 @@ My primary interest is building scalable SaaS platforms, automation tools, and A
 **AI & Automation**
 
 * OpenAI API
+* Claude API
+* Gemini API
 * AI-assisted development workflows
 * Prompt design for application features
 * AI integration into SaaS systems

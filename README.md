@@ -28,9 +28,7 @@ My primary interest is building scalable SaaS platforms, automation tools, and A
 
 **AI & Automation**
 
-* OpenAI API
-* Claude API
-* Gemini API
+* OpenAI, Claude, Gemini API
 * AI-assisted development workflows
 * Prompt design for application features
 * AI integration into SaaS systems
@@ -42,40 +40,6 @@ My primary interest is building scalable SaaS platforms, automation tools, and A
 * Automation systems
 * API architecture
 * Scalable backend systems
-
-## Featured Projects
-
-### AI Chatbot Platform
-
-A SaaS platform that allows users to create and manage their own AI chatbots.
-
-Key features:
-
-* Custom chatbot creation
-* Knowledge base training
-* Embeddable chat widget
-* Conversation management
-
-### AI Content Generation Platform
-
-A SaaS application designed to generate marketing and SEO-focused content using AI.
-
-Key features:
-
-* Blog and article generation
-* SEO-focused content tools
-* Content template system
-* User dashboard and project management
-
-## Development Approach
-
-I focus on building maintainable systems with clear architecture and modular components.
-My development process emphasizes:
-
-* clean code practices
-* scalable system design
-* clear documentation
-* efficient development workflows
 
 ## Contact
 
